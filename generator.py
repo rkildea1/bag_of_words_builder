@@ -37,3 +37,6 @@ def top_word_BOW(n):
     
 top_word_BOW(my_dict) #call the function
 
+#Sample answer printed for the "top_word_BOW(my_dict)" function:
+    #The most frequent word occuring in the text is:              the
+    #The most frequent word occurs the following number of times: 13853
